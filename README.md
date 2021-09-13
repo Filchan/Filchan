@@ -1,5 +1,4 @@
 # Merhaba, ben <a href="https://discord.com/users/613700645173592086">Filchan</a>! 👋
-![](https://komarev.com/ghpvc/?username=Filchan&style=flat-square)<br>
 15 yaşındayım ve 2 yılı aşkın bir süredir JavaScript ile Discord üzerinde bot geliştiriyorum. Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 
 Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi bir Discord sunucusu için bot satışı yaparım. Kendi satışlarını yapan diğer geliştiricilerin aksine, ben her satış yaptığım sunucu için __her şeyi__ en baştan geliştiririm. Bu demek oluyor ki eğer müşterimseniz, para karşılığı sizin için geliştirdiğim bir sistemi başka hiç bir suncuuda göremeyeceksiniz. En hızlı satış teslimini siz alacaksınız.
@@ -36,4 +35,4 @@ Aylar, belki yıllar boyunca bana her konuda yardım eden herkese teşekkürler.
 - **Steward** - Ghost etiketlerin loglarını tutan ve birden fazla dil seçeneğine sahip bir bottur.
 - **Statiy** - Sunucunuzun istatistiklerini bir ses kanalına yada bir mesaja yazdırıp, belirli dakika aralığı ile güncelleyen bir bottur. Onaylı bir bottur.
 - **Kebab-bot** - Adının hakkını veren, belirli Kebab Puanlarıyla alabildiğiniz dürümleri mizahi bir şekilde yiyebilmenizi sağlar. Birden fazla geliştiricisi vardır.<br><br>
-(Not: Hepsi kapalıdır.)
+(Not: Hepsi kapalıdır.)<br>
