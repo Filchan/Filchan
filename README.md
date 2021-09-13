@@ -26,4 +26,14 @@ Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi 
 - CodAre Development - <code>2019-2021</code> <code>Senior Moderator, Event Moderator</code>
 - Rina Roleplay - <code>2021-2021 (6 ay)</code> <code>Forum Görevlisi, Helper 5</code>
 
+## Geliştirdiğim herkese açık botlar:
+- **lie** - Discord.js v11 sürümü ile kullanılmak için yazılmış bir kodu, anında Discord.js v12 sürümünde kullanabilinmesi için uyarlayabilen, çoklu amaca sahip ve zamanının ilki, sonuncusu ve geliştiricisinin en kıymetli botudur. Onaylı bir bottur.
+- **Sipy** - İçinde her türden açık kaynak kod bulunduran ve ilk Public botumdur.
+- **Twiter-bot** - Discord üzerinde eğlenmenin kolaylaştırılması amaçlanarak tasarlanan, onaylanmış bir bottur. Twitter API'ye bağlanıp sizin Twitter hesabınızla işlem yapmıyor, aksine sadece bulunduğunuz sunucu üzerinde kullanabileceğiniz, kendi veri tabanında sizin belirlediğiniz bilgiler ile bir hesap oluşturur. Oluşan hesabı, o sunucuda ki başka hesap oluşturan kişilerin gönderdiği tweet mesajlarını beğenerek, onları takip ederek kullanabilirsiniz. Türünün tek örneğidir.  
+- **Awayer** - Gelişmiş, onaylı bir Çekiliş botudur.
+- **Steward** - Ghost etiketlerin loglarını tutan ve birden fazla dil seçeneğine sahip bir bottur.
+- **Statiy** - Sunucunuzun istatistiklerini bir ses kanalına yada bir mesaja yazdırıp, belirli dakika aralığı ile güncelleyen bir bottur. Onaylı bir bottur.
+- **Kebab-bot** - Adının hakkını veren, belirli Kebab Puanlarıyla alabildiğiniz dürümleri mizahi bir şekilde yiyebilmenizi sağlar. Birden fazla geliştiricisi vardır.<br><br>
+(Not: Hepsi kapalıdır.)
+ 
 Aylar, belki yıllar boyunca bana her konuda yardım eden herkese teşekkürler.
