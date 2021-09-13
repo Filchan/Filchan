@@ -24,7 +24,8 @@ Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi 
 
 ## Yönetim tecrübelerim:
 - CodAre Development - <code>2019-2021</code> <code>Senior Moderator, Event Moderator</code>
-- Rina Roleplay - <code>2021-2021 (6 ay)</code> <code>Forum Görevlisi, Helper 5</code>
+- Rina Roleplay - <code>2021-2021 (6 ay)</code> <code>Forum Görevlisi, Helper 5</code><br><br>
+Aylar, belki yıllar boyunca bana her konuda yardım eden herkese teşekkürler.
 
 ## Geliştirdiğim herkese açık botlar:
 - **lie** - Discord.js v11 sürümü ile kullanılmak için yazılmış bir kodu, anında Discord.js v12 sürümünde kullanabilinmesi için uyarlayabilen, çoklu amaca sahip ve zamanının ilki, sonuncusu ve geliştiricisinin en kıymetli botudur. Onaylı bir bottur.
@@ -35,5 +36,3 @@ Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi 
 - **Statiy** - Sunucunuzun istatistiklerini bir ses kanalına yada bir mesaja yazdırıp, belirli dakika aralığı ile güncelleyen bir bottur. Onaylı bir bottur.
 - **Kebab-bot** - Adının hakkını veren, belirli Kebab Puanlarıyla alabildiğiniz dürümleri mizahi bir şekilde yiyebilmenizi sağlar. Birden fazla geliştiricisi vardır.<br><br>
 (Not: Hepsi kapalıdır.)
- 
-Aylar, belki yıllar boyunca bana her konuda yardım eden herkese teşekkürler.
