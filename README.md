@@ -23,7 +23,7 @@ Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi 
 - [⌽  Türkiye Cumhuriyeti](https://discord.gg/tcrp) - <code>Başlangıç: 31.01.2021</code>
 
 ## Yönetim tecrübelerim:
-- CodAre Development - <code>2019-2021</code> <code>Senior Moderator</code>
+- CodAre Development - <code>2019-2021</code> <code>Senior Moderator, Event Moderator</code>
 - Rina Roleplay - <code>2021-2021 (6 ay)</code> <code>Forum Görevlisi, Helper 5</code>
 
 Aylar, belki yıllar boyunca bana her konuda yardım eden herkese teşekkürler.
