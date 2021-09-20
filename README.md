@@ -14,7 +14,7 @@ Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi 
 ## Geliştiriciliğimi devam ettirdiğim sunucular:
 - [DDnet Türkiye](https://discord.gg/ddnetturkiye) - <code>Başlangıç: 08.09.2021</code>
 - [Solagon](https://discord.gg/solagon) - <code>Başlangıç: 06.09.2021</code>
-- [UZİ #0999](https://discord.gg/k3U2Ta3teC) - <code>Başlangıç: 04.09.2021</code>
+- [UZİ #1997](https://discord.gg/k3U2Ta3teC) - <code>Başlangıç: 04.09.2021</code>
 - [Osmanlı İmparatorluğu RolePlay](https://discord.gg/3sS2pNZjWF) - <code>Başlangıç: 29.08.2021</code>
 - [Black †](https://discord.gg/blacks) - <code>Başlangıç: 17.08.2021</code>
 - [Herakles](https://discord.gg/herakles) - <code>Başlangıç: 17.08.2021</code>
