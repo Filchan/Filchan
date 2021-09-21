@@ -18,10 +18,9 @@ Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi 
 - [Osmanlı İmparatorluğu RolePlay](https://discord.gg/3sS2pNZjWF) - <code>Başlangıç: 29.08.2021</code>
 - [Herakles](https://discord.gg/herakles) - <code>Başlangıç: 17.08.2021</code>
 - [◈ I N F I N I T E ◈](https://discord.gg/5f9bm8pWcN) - <code>Başlangıç: 03.07.2021</code>
-- [#Fun4Social ⚡](https://discord.gg/blvck) - <code>Başlangıç: 08.04.2021</code> <code>Bitti</code>
 - [⌽  Türkiye Cumhuriyeti](https://discord.gg/tcrp) - <code>Başlangıç: 31.01.2021</code><br><br>
-- [#Fun4Social ⚡](https://discord.gg/blvck) - <code>Başlangıç: 08.04.2021</code> <code>Bitti</code>
 - [Black †](https://discord.gg/blacks) - <code>Başlangıç: 17.08.2021</code> <code>Bitti</code>
+- [#Fun4Social ⚡](https://discord.gg/blvck) - <code>Başlangıç: 08.04.2021</code> <code>Bitti</code>
 
 ## Yönetim tecrübelerim:
 - CodAre Development - <code>2019-2021</code> <code>Senior Moderator, Event Moderator</code>
