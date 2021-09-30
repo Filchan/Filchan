@@ -1,4 +1,4 @@
-# Merhaba, ben <a href="https://discord.com/users/613700645173592086">Filchan</a>! 👋
+# Merhaba, ben <a href="https://discord.com/users/613700645173592086">Can</a>! 👋
 15 yaşındayım ve 2 yılı aşkın bir süredir JavaScript ile Discord üzerinde bot geliştiriyorum. Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum. Ayrıca [Discord Testers](https://discord.gg/discord-testers) sunucusunda kabul edilmiş 11 hata raporu ile Bug Squasherim. Günümün yarısını uyumak, geri kalan zamanın çoğunu Discord ile ilgilenip videolar izlemekle geçiriyorum. Sosyal bir hayatım olmadığından çoğu zaman evdeyim.
 
 Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi bir Discord sunucusu için bot satışı yaparım. Kendi satışlarını yapan diğer geliştiricilerin aksine, ben her satış yaptığım sunucu için __her şeyi__ en baştan geliştiririm. Bu demek oluyor ki eğer müşterimseniz, para karşılığı sizin için geliştirdiğim bir sistemi başka hiç bir sunucuda göremeyeceksiniz. En hızlı satış teslimini siz alacaksınız.
