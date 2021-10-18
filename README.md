@@ -24,7 +24,7 @@ Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi 
 - [#Fun4Social ⚡](https://discord.gg/blvck) - <code>Başlangıç: 08.04.2021</code> <code>Bitti</code> <code>Kapandı: Bilinmiyor</code>
 
 ## 🎉 [Barty](https://discord.com/api/oauth2/authorize?client_id=894738540821381120&permissions=402779312&scope=bot)
-Her şeyin otomatiğini isteyen sunucuların göz bebeği olmak için oluşturulmuş bir Robottur. Umarım tüm dileklerini yerine getirebilir. Sizde Barty'i sunucunuza ekleyip Geliştirilmiş Kayıt, Hoşgeldin ve Şüpheli sistemlerini kullanabilirsiniz.<br>
+Her şeyin otomatiğini isteyen sunucuların göz bebeği olmak için oluşturulmuş bir Discord botudur. Umarım tüm dileklerini yerine getirebilir. Sizde Barty'i sunucunuza ekleyip Geliştirilmiş Kayıt, Hoşgeldin ve Şüpheli sistemlerini kullanabilirsiniz.<br>
 
 Aynı zamanda buton isimli komutunu kullanarak istediğiniz kadar rol etiketlerseniz, yazdığınız mesajla beraber her bir rol için buton ekleyip bir mesaj gönderebilir. Butona tıklayandan o butonun rolünü verebilir/alabilir.<br>
 
@@ -38,6 +38,7 @@ Yakın tarihte, Destek sunucumuz da sizin için bir kanal oluşturulacak ve Bart
 Aylar, belki yıllar boyunca bana her konuda yardım eden herkese teşekkürler.
 
 ## Geliştirdiğim herkese açık botlar:
+- **Barty** - Public sunuculara kolaylık sağlaması adına oluşturulmuş ve şu anda aktif olarak geliştirilmeye devam edilirken bir yandan aktif olan bir bottur.
 - **lie** - Discord.js v11 sürümü ile kullanılmak için yazılmış bir kodu, anında Discord.js v12 sürümünde kullanabilinmesi için uyarlayabilen, çoklu amaca sahip ve zamanının ilki, sonuncusu ve geliştiricisinin en kıymetli botudur. Onaylı bir bottur.
 - **Sipy** - İçinde her türden açık kaynak kod bulunduran ve ilk Public botumdur.
 - **Twiter-bot** - Discord üzerinde eğlenmenin kolaylaştırılması amaçlanarak tasarlanan, onaylanmış bir bottur. Twitter API'ye bağlanıp sizin Twitter hesabınızla işlem yapmıyor, aksine sadece bulunduğunuz sunucu üzerinde kullanabileceğiniz, kendi veri tabanında sizin belirlediğiniz bilgiler ile bir hesap oluşturur. Oluşan hesabı, o sunucuda ki başka hesap oluşturan kişilerin gönderdiği tweet mesajlarını beğenerek, onları takip ederek kullanabilirsiniz. Türünün tek örneğidir.  
