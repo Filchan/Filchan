@@ -23,6 +23,15 @@ Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi 
 - [DDnet Türkiye](https://discord.gg/ddnetturkiye) - <code>Başlangıç: 08.09.2021</code> <code>Bitti</code> <code>Kapandı: 10.10.2021</code><br>
 - [#Fun4Social ⚡](https://discord.gg/blvck) - <code>Başlangıç: 08.04.2021</code> <code>Bitti</code> <code>Kapandı: Bilinmiyor</code>
 
+## [Barty](https://discord.com/api/oauth2/authorize?client_id=894738540821381120&permissions=402779312&scope=bot)
+Her şeyin otomatiğini isteyen sunucuların göz bebeği olmak için oluşturulmuş bir Robotum. Umarım tüm dileklerini yerine getirebilirim. Sizde beni sunucunuza ekleyip Geliştirilmiş Kayıt, Hoşgeldin ve Şüpheli sistemlerini kullanabilirsiniz.<br>
+
+Aynı zamanda buton isimli komutumu kullanarak istediğiniz kadar rol etiketlerseniz, yazdığınız mesajla beraber her bir rol için buton ekleyip bir mesaj gönderebilirim. Butona tıklayandan o butonun rolünü verebilirim/alabilirim.<br>
+
+Dilerseniz destek sunucuma katılıp, Güncelleme Bildirimleri rolüne sahip olabilir ve Barty'e gelen tüm bildirimlerden anında haberdar olabilirsiniz. Sunucunuz için en iyi Kayıt botu olan ve her gün güncellenmeye devam eden Barty'i sunucunuza eklemeyi unutmayın!<br>
+
+Yakın tarihte, Destek sunucumuz da sizin için bir kanal oluşturulacak ve Barty'de görmek istediğiniz sistemleri o kanala göndereceksiniz.
+
 ## Az çok yönetim tecrübelerim:
 - CodAre Development - <code>2019-2021</code> <code>Senior Moderator, Event Moderator</code>
 - Rina Roleplay - <code>2021-2021 (6 ay)</code> <code>Forum Görevlisi, Helper 5</code><br><br>
