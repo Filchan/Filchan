@@ -39,11 +39,10 @@ Aylar, belki yıllar boyunca bana her konuda yardım eden herkese teşekkürler.
 
 ## Geliştirdiğim herkese açık botlar:
 - **Barty** - Public sunuculara kolaylık sağlaması adına oluşturulmuş ve şu anda aktif olarak geliştirilmeye devam edilirken bir yandan aktif olan bir bottur.
-- **lie** - Discord.js v11 sürümü ile kullanılmak için yazılmış bir kodu, anında Discord.js v12 sürümünde kullanabilinmesi için uyarlayabilen, çoklu amaca sahip ve zamanının ilki, sonuncusu ve geliştiricisinin en kıymetli botudur. Onaylı bir bottur.
-- **Sipy** - İçinde her türden açık kaynak kod bulunduran ve ilk Public botumdur.
-- **Twiter-bot** - Discord üzerinde eğlenmenin kolaylaştırılması amaçlanarak tasarlanan, onaylanmış bir bottur. Twitter API'ye bağlanıp sizin Twitter hesabınızla işlem yapmıyor, aksine sadece bulunduğunuz sunucu üzerinde kullanabileceğiniz, kendi veri tabanında sizin belirlediğiniz bilgiler ile bir hesap oluşturur. Oluşan hesabı, o sunucuda ki başka hesap oluşturan kişilerin gönderdiği tweet mesajlarını beğenerek, onları takip ederek kullanabilirsiniz. Türünün tek örneğidir.  
-- **Awayer** - Gelişmiş, onaylı bir Çekiliş botudur.
-- **Steward** - Ghost etiketlerin loglarını tutan ve birden fazla dil seçeneğine sahip bir bottur.
-- **Statiy** - Sunucunuzun istatistiklerini bir ses kanalına yada bir mesaja yazdırıp, belirli dakika aralığı ile güncelleyen bir bottur. Onaylı bir bottur.
-- **Kebab-bot** - Adının hakkını veren, belirli Kebab Puanlarıyla alabildiğiniz dürümleri mizahi bir şekilde yiyebilmenizi sağlar. Birden fazla geliştiricisi vardır.<br><br>
-(Not: Hepsi kapalıdır.)<br>
+- <code>Offline</code> **lie** - Discord.js v11 sürümü ile kullanılmak için yazılmış bir kodu, anında Discord.js v12 sürümünde kullanabilinmesi için uyarlayabilen, çoklu amaca sahip ve zamanının ilki, sonuncusu ve geliştiricisinin en kıymetli botudur. Onaylı bir bottur.
+- <code>Offline</code> **Sipy** - İçinde her türden açık kaynak kod bulunduran ve ilk Public botumdur.
+- <code>Offline</code> **Twiter-bot** - Discord üzerinde eğlenmenin kolaylaştırılması amaçlanarak tasarlanan, onaylanmış bir bottur. Twitter API'ye bağlanıp sizin Twitter hesabınızla işlem yapmıyor, aksine sadece bulunduğunuz sunucu üzerinde kullanabileceğiniz, kendi veri tabanında sizin belirlediğiniz bilgiler ile bir hesap oluşturur. Oluşan hesabı, o sunucuda ki başka hesap oluşturan kişilerin gönderdiği tweet mesajlarını beğenerek, onları takip ederek kullanabilirsiniz. Türünün tek örneğidir.  
+- <code>Offline</code> **Awayer** - Gelişmiş, onaylı bir Çekiliş botudur.
+- <code>Offline</code> **Steward** - Ghost etiketlerin loglarını tutan ve birden fazla dil seçeneğine sahip bir bottur.
+- <code>Offline</code> **Statiy** - Sunucunuzun istatistiklerini bir ses kanalına yada bir mesaja yazdırıp, belirli dakika aralığı ile güncelleyen bir bottur. Onaylı bir bottur.
+- <code>Offline</code> **Kebab-bot** - Adının hakkını veren, belirli Kebab Puanlarıyla alabildiğiniz dürümleri mizahi bir şekilde yiyebilmenizi sağlar. Birden fazla geliştiricisi vardır.<br><br><br>
