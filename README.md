@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=chimpdev)
 # Merhaba, ben <a href="https://discord.com/users/613700645173592086">Can</a>! 👋
 15 yaşındayım ve 2 yılı aşkın bir süredir JavaScript ile Discord üzerinde bot geliştiriyorum. Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum. Ayrıca [Discord Testers](https://discord.gg/discord-testers) sunucusunda Bug Squasherim. Günümün yarısını uyumak, geri kalan zamanın çoğunu Discord ile ilgilenip videolar izlemekle geçiriyorum. Sosyal bir hayatım olmadığından çoğu zaman evdeyim.
 
