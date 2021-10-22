@@ -16,11 +16,11 @@ Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi 
 - [𓅪|Osmanlı Kurgu RolePlay |𝐒𝐂|](https://discord.gg/3zXwUXhbaMn) - <code>Başlangıç: 16.10.2021</code>
 - [Solagon](https://discord.gg/solagon) - <code>Başlangıç: 06.09.2021</code>
 - [priw #valensia](https://discord.gg/k3U2Ta3teC) - <code>Başlangıç: 04.09.2021</code>
-- [Osmanlı İmparatorluğu RolePlay](https://discord.gg/3sS2pNZjWF) - <code>Başlangıç: 29.08.2021</code>
 - [Black †](https://discord.gg/blacks) - <code>Başlangıç: 17.08.2021</code> 
 - [Herakles](https://discord.gg/herakles) - <code>Başlangıç: 17.08.2021</code>
 - [◈ I N F I N I T E ◈](https://discord.gg/5f9bm8pWcN) - <code>Başlangıç: 03.07.2021</code>
 - [⌽  Türkiye Cumhuriyeti](https://discord.gg/tcrp) - <code>Başlangıç: 31.01.2021</code><br><br>
+- [Osmanlı İmparatorluğu RolePlay](https://discord.gg/3sS2pNZjWF) - <code>Başlangıç: 29.08.2021</code> <code>Bitti</code> <code>22.10.2021</code><br>
 - [DDnet Türkiye](https://discord.gg/ddnetturkiye) - <code>Başlangıç: 08.09.2021</code> <code>Bitti</code> <code>Kapandı: 10.10.2021</code><br>
 - [#Fun4Social ⚡](https://discord.gg/blvck) - <code>Başlangıç: 08.04.2021</code> <code>Bitti</code> <code>Kapandı: Bilinmiyor</code>
 
