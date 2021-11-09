@@ -21,7 +21,7 @@ Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi 
 - [Herakles](https://discord.gg/herakles) - <code>Başlangıç: 17.08.2021</code>
 - [◈ I N F I N I T E ◈](https://discord.gg/5f9bm8pWcN) - <code>Başlangıç: 03.07.2021</code>
 - [⌽  Türkiye Cumhuriyeti](https://discord.gg/tcrp) - <code>Başlangıç: 31.01.2021</code><br><br>
-- [⟐ Thedesia](https://discord.gg/) - <code>Başlangıç: 04.11.2021</code> <code>Beklemede</code> <code>09.11.2021</code><br>
+- [⟐ Thedesia](https://discord.gg/) - <code>Başlangıç: 04.11.2021</code> <code>Beklemede</code> <code>08.11.2021</code><br>
 - [Osmanlı İmparatorluğu RolePlay](https://discord.gg/3sS2pNZjWF) - <code>Başlangıç: 29.08.2021</code> <code>Bitti</code> <code>22.10.2021</code><br>
 - [DDnet Türkiye](https://discord.gg/ddnetturkiye) - <code>Başlangıç: 08.09.2021</code> <code>Bitti</code> <code>Kapandı: 10.10.2021</code><br>
 - [#Fun4Social ⚡](https://discord.gg/blvck) - <code>Başlangıç: 08.04.2021</code> <code>Bitti</code> <code>Kapandı: Bilinmiyor</code>
