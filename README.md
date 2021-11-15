@@ -23,6 +23,8 @@ Ayrıca şu anda aktif olarak geliştirmeye devam ettiğim bir NPM modülüm var
 - [Herakles](https://discord.gg/herakles) - <code>Başlangıç: 17.08.2021</code>
 - [◈ I N F I N I T E ◈](https://discord.gg/5f9bm8pWcN) - <code>Başlangıç: 03.07.2021</code>
 - [⌽  Türkiye Cumhuriyeti](https://discord.gg/tcrp) - <code>Başlangıç: 31.01.2021</code><br><br>
+- [⟐ Herakles Cumhuriyeti #Yeniden](https://discord.gg/) - <code>Başlangıç: 15.11.2021</code> <code>Beklemede</code> <code>15.11.2021</code><br>
+- [◎ Amerika Birleşik Devletleri](https://discord.gg/) - <code>Başlangıç: 15.11.2021</code> <code>Beklemede</code> <code>15.11.2021</code><br>
 - [⟐ Thedesia](https://discord.gg/) - <code>Başlangıç: 04.11.2021</code> <code>Beklemede</code> <code>08.11.2021</code><br>
 - [Osmanlı İmparatorluğu RolePlay](https://discord.gg/3sS2pNZjWF) - <code>Başlangıç: 29.08.2021</code> <code>Bitti</code> <code>22.10.2021</code><br>
 - [DDnet Türkiye](https://discord.gg/ddnetturkiye) - <code>Başlangıç: 08.09.2021</code> <code>Bitti</code> <code>Kapandı: 10.10.2021</code><br>
