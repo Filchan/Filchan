@@ -31,8 +31,8 @@ Ayrıca şu anda aktif olarak geliştirmeye devam ettiğim bir NPM modülüm var
 - [#Fun4Social ⚡](https://discord.gg/blvck) - <code>Başlangıç: 08.04.2021</code> <code>Bitti</code> <code>Kapandı: Bilinmiyor</code>
 
 ## Az çok yönetim tecrübelerim:
-- CodAre Development - <code>2019-2021</code> <code>Senior Moderator, Event Moderator</code>
-- Rina Roleplay - <code>2021-2021 (6 ay)</code> <code>Forum Görevlisi, Helper 5</code><br><br>
+- [CodAre Development](https://discord.gg/codare) - <code>2019-2021</code> <code>Senior Moderator, Event Moderator</code>
+- [Rina Roleplay](https://www.rina-roleplay.com) - <code>2021-2021 (6 ay)</code> <code>Forum Görevlisi, Helper 5</code><br><br>
 Aylar, belki yıllar boyunca bana her konuda yardım eden herkese teşekkürler.
 
 ## Geliştirdiğim herkese açık botlar:
