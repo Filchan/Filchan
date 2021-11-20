@@ -30,11 +30,6 @@ Ayrıca şu anda aktif olarak geliştirmeye devam ettiğim bir NPM modülüm var
 - [DDnet Türkiye](https://discord.gg/ddnetturkiye) - <code>Başlangıç: 08.09.2021</code> <code>Bitti</code> <code>Kapandı: 10.10.2021</code><br>
 - [#Fun4Social ⚡](https://discord.gg/blvck) - <code>Başlangıç: 08.04.2021</code> <code>Bitti</code> <code>Kapandı: Bilinmiyor</code>
 
-## Az çok yönetim tecrübelerim:
-- [CodAre Development](https://discord.gg/codare) - <code>2019-2021</code> <code>Senior Moderator, Event Moderator</code>
-- [Rina Roleplay](https://www.rina-roleplay.com) - <code>2021-2021 (6 ay)</code> <code>Forum Görevlisi, Helper 5</code><br><br>
-Aylar, belki yıllar boyunca bana her konuda yardım eden herkese teşekkürler.
-
 ## Geliştirdiğim herkese açık botlar:
 - <code>Offline</code> **Barty** - Public sunuculara kolaylık sağlaması adına oluşturulmuş ve şu anda aktif olarak geliştirilmeye devam edilmeyen bir bottur.
 - <code>Offline</code> **lie** - Discord.js v11 sürümü ile kullanılmak için yazılmış bir kodu, anında Discord.js v12 sürümünde kullanabilinmesi için uyarlayabilen, çoklu amaca sahip ve zamanının ilki, sonuncusu ve geliştiricisinin en kıymetli botudur. Onaylı bir bottur.
