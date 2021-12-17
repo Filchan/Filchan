@@ -18,13 +18,13 @@ Ayrıca şu anda aktif olarak geliştirmeye devam ettiğim bir NPM modülüm var
 - [◎ MUHTEŞEM YÜZYIL ROLEPLAY ◎](https://discord.gg/GBSqU8q5vH) - <code>Başlangıç: 06.12.2021</code>
 - [⟐ Herakles Krallığı#Yeniden](https://discord.gg/BnyDsJuGJP) - <code>Başlangıç: 15.11.2021</code>
 - [Discord Türkiye](https://discord.gg/turkiye) - <code>Başlangıç: 04.11.2021</code>
-- [𓅪|Osmanlı Kurgu RolePlay |𝐒𝐂|](https://discord.gg/3zXwUXhbaMn) - <code>Başlangıç: 16.10.2021</code>
 - [Solagon](https://discord.gg/solagon) - <code>Başlangıç: 06.09.2021</code>
 - [priw #valensia](https://discord.gg/k3U2Ta3teC) - <code>Başlangıç: 04.09.2021</code>
 - [Black †](https://discord.gg/blacks) - <code>Başlangıç: 17.08.2021</code> 
 - [Herakles](https://discord.gg/herakles) - <code>Başlangıç: 17.08.2021</code>
 - [◈ I N F I N I T E ◈](https://discord.gg/5f9bm8pWcN) - <code>Başlangıç: 03.07.2021</code>
 - [⌽  Türkiye Cumhuriyeti](https://discord.gg/tcrp) - <code>Başlangıç: 31.01.2021</code><br><br>
+- [𓅪|Osmanlı Kurgu RolePlay |𝐒𝐂|](https://discord.gg/3zXwUXhbaMn) - <code>Başlangıç: 16.10.2021</code> <code>Beklemede</code>
 - [◎ Amerika Birleşik Devletleri](https://discord.gg/) - <code>Başlangıç: 15.11.2021</code> <code>Beklemede</code> <code>15.11.2021</code><br>
 - [⟐ Thedesia](https://discord.gg/) - <code>Başlangıç: 04.11.2021</code> <code>Beklemede</code> <code>08.11.2021</code><br>
 - [Osmanlı İmparatorluğu RolePlay](https://discord.gg/3sS2pNZjWF) - <code>Başlangıç: 29.08.2021</code> <code>Bitti</code> <code>22.10.2021</code><br>
