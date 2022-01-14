@@ -4,7 +4,7 @@
 
 Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi bir Discord sunucusu için bot satışı yaparım. Kendi satışlarını yapan diğer geliştiricilerin aksine, ben her satış yaptığım sunucu için __her şeyi__ en baştan geliştiririm. Bu demek oluyor ki eğer müşterimseniz, para karşılığı sizin için geliştirdiğim bir sistemi başka hiç bir sunucuda göremeyeceksiniz. En hızlı satış teslimini siz alacaksınız.
 
-Ayrıca şu anda aktif olarak geliştirmeye devam ettiğim bir NPM modülüm var. Bu modül ile girdiğiniz Instagram kullanıcısının ne kadar postu olduğunu, kaç kişiyi takip ettiğini ve kaç kişi tarafından takip edildiğini rahatlıkla kontrol edebilirsiniz. --> [gets-from-username](https://www.npmjs.com/package/gets-from-username) 
+Ayrıca şu anda aktif olarak geliştirmeye devam ettiğim bir NPM modülüm var. Bu modül ile girdiğiniz Instagram kullanıcısının ne kadar postu olduğunu, kaç kişiyi takip ettiğini ve kaç kişi tarafından takip edildiğini rahatlıkla kontrol edebilirsiniz. Artık gets-from-username ile Discord.js botunuza bir Instagram hesabını izlemesini sağlayabilirsiniz. Eğer yaparsanız, hesap gönderi paylaştığında otomatik olarak bir event emit edilecektir. Böylece istediğiniz bir hesap gönderi paylaştığında Discord.js botunuza bir işlem yaptırabilirsiniz! --> [gets-from-username](https://www.npmjs.com/package/gets-from-username) 
 
 Ve hali hazırda geliştirmeye devam ettiğim başka bir projem daha var. [Quickshortener](https://quickshortener.glitch.me/) ile uzun linklerinizi kısacık linklere çevirebilirsiniz. Fakat çevirdiğiniz link 5 dakika sonra yok olacaktır. Tam anlamıyla **hızlı** ve **güvenli**.
 
