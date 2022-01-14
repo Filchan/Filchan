@@ -6,6 +6,8 @@ Discord.js veya Eris kütüphanelerini kullanarak bir bot kodlarım ve herhangi 
 
 Ayrıca şu anda aktif olarak geliştirmeye devam ettiğim bir NPM modülüm var. Bu modül ile girdiğiniz Instagram kullanıcısının ne kadar postu olduğunu, kaç kişiyi takip ettiğini ve kaç kişi tarafından takip edildiğini rahatlıkla kontrol edebilirsiniz. --> [gets-from-username](https://www.npmjs.com/package/gets-from-username) 
 
+Ve hali hazırda geliştirmeye devam ettiğim başka bir projem daha var. [Quickshortener](https://quickshortener.glitch.me/) ile uzun linklerinizi kısacık linklere çevirebilirsiniz. Fakat çevirdiğiniz link 5 dakika sonra yok olacaktır. Tam anlamıyla **hızlı** ve **güvenli**.
+
 ## Bana nereden ulaşabilirsin?
 [![Discord Badge](https://img.shields.io/badge/can-white?style=social&logo=Discord)](https://discord.com/users/613700645173592086)<br>
 [![Discord Badge](https://img.shields.io/badge/thiskyhan-white?style=social&logo=Instagram)](https://instagram.com/thiskyhan)
