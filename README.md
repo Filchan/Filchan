@@ -20,7 +20,7 @@ Ve hali hazırda geliştirmeye devam ettiğim başka bir projem daha var. [Quick
 - [Blindcord | Anonim sohbet et!](https://discord.gg/blindcord) - <code>Başlangıç: 07.01.2022</code>
 - [⟐ Herakles Krallığı#Yeniden](https://discord.gg/BnyDsJuGJP) - <code>Başlangıç: 15.11.2021</code>
 - [Discord Türkiye](https://discord.gg/turkiye) - <code>Başlangıç: 04.11.2021</code>
-- [Solagon](https://discord.gg/solagon) - <code>Başlangıç: 06.09.2021</code>
+- [Metagon Fight Club: MFC](https://discord.gg/metagonfightclub) - <code>Başlangıç: 06.09.2021</code>
 - [priw #valensia](https://discord.gg/k3U2Ta3teC) - <code>Başlangıç: 04.09.2021</code>
 - [Black](https://discord.gg/blk) - <code>Başlangıç: 17.08.2021</code> ([Black †](https://discord.gg/black))
 - [Herakles](https://discord.gg/herakles) - <code>Başlangıç: 17.08.2021</code>
