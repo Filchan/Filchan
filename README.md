@@ -1,4 +1,4 @@
-[![Blindcord](https://cdn.discordapp.com/banners/929475069166649395/a_ae9a69dc151c9ca152eb9ef20c4f9519.gif?size=4096)](https://discord.gg/blindcord)
+[![Raven](https://cdn.discordapp.com/attachments/845758389619130418/950608841593208832/ravenbanner.png?size=4096)](https://discord.gg/AjST23UMFy)
   
 ![](https://komarev.com/ghpvc/?username=chimpdev)
 # Merhaba, ben <a href="https://discord.com/users/613700645173592086">Can</a>! 👋
