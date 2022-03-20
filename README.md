@@ -25,7 +25,6 @@ Ve hali hazırda geliştirmeye devam ettiğim başka bir projem daha var. [Quick
 - [Metagon Fight Club: MFC](https://discord.gg/metagonfightclub) - <code>Başlangıç: 06.09.2021</code>
 - [priw #valensia](https://discord.gg/k3U2Ta3teC) - <code>Başlangıç: 04.09.2021</code>
 - [Black](https://discord.gg/blk) - <code>Başlangıç: 17.08.2021</code> ([Black †](https://discord.gg/black))
-- [Herakles](https://discord.gg/herakles) - <code>Başlangıç: 17.08.2021</code>
 - [◈ I N F I N I T E ◈](https://discord.gg/5f9bm8pWcN) - <code>Başlangıç: 03.07.2021</code>
 - [⌽  Türkiye Cumhuriyeti](https://discord.gg/tcrp) - <code>Başlangıç: 31.01.2021</code><br><br>
 - [Herakles](https://discord.gg/herakles) - <code>Başlangıç: 17.08.2021</code> <code>Bitti</code> <code>20.03.2022</code><br>
