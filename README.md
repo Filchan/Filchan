@@ -28,6 +28,7 @@ Ve hali hazırda geliştirmeye devam ettiğim başka bir projem daha var. [Quick
 - [Herakles](https://discord.gg/herakles) - <code>Başlangıç: 17.08.2021</code>
 - [◈ I N F I N I T E ◈](https://discord.gg/5f9bm8pWcN) - <code>Başlangıç: 03.07.2021</code>
 - [⌽  Türkiye Cumhuriyeti](https://discord.gg/tcrp) - <code>Başlangıç: 31.01.2021</code><br><br>
+- [Herakles](https://discord.gg/herakles) - <code>Başlangıç: 17.08.2021</code> <code>Bitti</code> <code>20.03.2022</code><br>
 - [◎ MUHTEŞEM YÜZYIL ROLEPLAY ◎](https://discord.gg/GBSqU8q5vH) - <code>Başlangıç: 06.12.2021</code> <code>Bitti</code> <code>09.02.2022</code><br>
 - [𓅪|Osmanlı Kurgu RolePlay |𝐒𝐂|](https://discord.gg/3zXwUXhbaMn) - <code>Başlangıç: 16.10.2021</code> <code>Beklemede</code>
 - [◎ Amerika Birleşik Devletleri](https://discord.gg/) - <code>Başlangıç: 15.11.2021</code> <code>Beklemede</code> <code>15.11.2021</code><br>
