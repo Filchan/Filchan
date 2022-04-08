@@ -1,4 +1,4 @@
-[![Raven](https://cdn.discordapp.com/attachments/845758389619130418/950608841593208832/ravenbanner.png?size=4096)](https://discord.gg/AjST23UMFy)
+[![Raven](https://cdn.discordapp.com/attachments/845758389619130418/950608841593208832/ravenbanner.png?size=4096)](https://ravencode.live)
   
 ![](https://komarev.com/ghpvc/?username=chimpdev)
 # Merhaba, ben <a href="https://discord.com/users/613700645173592086">Can</a>! 👋
