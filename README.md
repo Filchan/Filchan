@@ -13,7 +13,7 @@ Ve hali hazırda geliştirmeye devam ettiğim başka bir projem daha var. [Quick
 ## Bana nereden ulaşabilirsin?
 [![Discord Badge](https://img.shields.io/badge/can-white?style=social&logo=Discord)](https://discord.com/users/613700645173592086)<br>
 [![Discord Badge](https://img.shields.io/badge/thiskyhan-white?style=social&logo=Instagram)](https://instagram.com/thiskyhan)<br><br>
-<img src='https://api.ravencode.live/v1/users/613700645173592086/embed?width=399&height=250'></img>
+<img src='https://api.ravencode.live/v1/users/613700645173592086/embed?width=398&height=250'></img>
 
 ## Kullandığım & Öğrendiğim şeyler:
 
