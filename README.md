@@ -1,5 +1,5 @@
 ## Merhaba ben Can! 👋
-2.5 yılı aşkın bir süredir JavaScript ile Discord üzerinde bot geliştiriyorum.<br>
+3 yılı aşkın bir süredir JavaScript ile Discord üzerinde bot geliştiriyorum.<br>
 Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum. 
 
 - 🌱 Şu anda öğrendiğim dil: **Python**
