@@ -13,7 +13,7 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://cdn.discordapp.com/icons/989170929865211904/0272a7571210a5a8452f261ca9fc7932.webp?size=96"/>](https://codare.fun)
 
 **noname developers </>** \
-[**noname developers**](https://discord.gg/nonamedevelopers) • Developer \
+[**noname developers**](https://discord.gg/nonamedevelopers) • Full-stack Developer \
 2022 • Devam ediyor\
 <br/>
 
