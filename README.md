@@ -14,7 +14,7 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 
 **noname developers </>** \
 [**noname developers**](https://discord.gg/nonamedevelopers) • Full-stack Developer \
-2022 • Devam ediyor\
+2022 • 2023\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://cdn.discordapp.com/attachments/715886415296069652/759848282422771732/New_Project_63_7E2F688.png"/>](https://codare.fun)
