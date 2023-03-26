@@ -4,7 +4,7 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 
 - 🌱 Şu anda öğrendiğim: **Python**, **SASS**, **React**
 - 👻 Kullandığım şeyler: **JavaScript**, **Node.js**, **Express**, **Discord.js**, **Eris**, **HTML**, **CSS**, **Tailwind CSS**, **Visual Studio Code**, **MongoDB**, **SQLite**, **Heroku**, **Glitch**, **Render**, **Vercel**, **Railway App**
-- 📋 Çalıştığım projeler: **[⟐ Türkiye Cumhuriyeti Roleplay](https://discord.gg/tcrp)**, **[⌽ Türkiye Cumhuriyeti Roleplay](https://discord.gg/turkiyecumhuriyeti)**, **[Blindcord](https://discord.gg/blindcord)**, **[Distop.gg](https://distop.gg)**, **[⌘ Birleşik Krallık Roleplay](https://discord.gg/NugXr5VX7r)**, **[GTA Online Türkiye (Başvuru)](https://basvuru.gtaonlineturkiye.com)**
+- 📋 Çalıştığım projeler: **[⟐ Türkiye Cumhuriyeti Roleplay](https://discord.gg/tr-rp)**, **[⌽ Türkiye Cumhuriyeti Roleplay](https://discord.gg/turkiyecumhuriyeti)**, **[Blindcord](https://discord.gg/blindcord)**, **[Distop.gg](https://distop.gg)**, **[⌘ Birleşik Krallık Roleplay](https://discord.gg/NugXr5VX7r)**, **[GTA Online Türkiye (Başvuru)](https://basvuru.gtaonlineturkiye.com)**
 - 📫 Bana ulaş: [can#0002](https://discord.com/users/957840712404193290) <img width="18" height="18" src='https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png'/>
 
 ![](https://komarev.com/ghpvc/?username=chimpdev)<br>
