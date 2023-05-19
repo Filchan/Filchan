@@ -24,61 +24,59 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 **⊚ Teen Wolf Roleplay** \
 [⊚ Teen Wolf Roleplay ↗︎](https://discord.gg/twrp) • Discord Bot Developer \
 2023 - Devam Ediyor \
-<br/>
+<br/><br/>
 
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1077101686268629052/19b757c5cd443b5bfc4da38dd56cfd1d.png"/>](https://discord.gg/gtHXyNTZ9d)
 
 **Codexa** \
 [codexa.app ↗︎](https://codexa.app) • Full-stack Developer / Founder \
 2023 - Devam Ediyor \
-<br/>
+<br/><br/>
 
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1061652868337254561/a_8c4a3b46f87cff7291c1a15ab8dc6a09.png"/>](https://discord.gg/NugXr5VX7r)
 
 **⌘ Birleşik Krallık Roleplay** \
 [⌘ Birleşik Krallık Roleplay ↗︎](https://discord.gg/NugXr5VX7r) • Discord Bot Developer \
 2023 - Devam Ediyor \
-<br/>
+<br/><br/>
 
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/989170929865211904/0272a7571210a5a8452f261ca9fc7932.png"/>](https://discord.gg/nonamedevelopers)
 
 **noname developers </>**  \
 [noname developers ↗︎](https://discord.gg/nonamedevelopers) • Full-stack Developer \
 2022 • 2023 \
-<br/>
-<br/>
+<br/><br/>
 
 [<img align="left" height="72px" width="94px" src="https://dcturkiye.com/data/XenGenTr/xengentr_resimlikonular/7084.jpg"/>](https://distop.gg)
 
 **Distop** \
 [Distop.gg ↗︎](https://distop.gg) • Full-stack Developer \
 2022 • 2023 \
-<br/>
+<br/><br/>
 
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1025757094583996436/4f73e476c97f545826bb23c788685ef8.png"/>](https://discord.gg/blindcord)
 
 **Blindcord** \
 [Blindcord ↗︎](https://discord.gg/blindcord) • Discord Bot Developer / Founder \
 2022 • 2023 \
-<br/>
+<br/><br/>
 
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/929071610986659880/a_05b49f5969b379d04048a4baf2ded063.png"/>](https://discord.gg/tcrp)
 
 **⌽ Türkiye Cumhuriyeti Roleplay** \
 [⌽ Türkiye Cumhuriyeti Roleplay ↗︎](https://discord.gg/tcrp) • Discord Bot Developer \
 2022 - Devam Ediyor \
-<br/>
+<br/><br/>
 
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/652564225130233867/a_ffdd29649677f5fcc7ce5bd9d77f39b4.png"/>](https://discord.gg/trrp)
 
 **⟐ Türkiye Cumhuriyeti Roleplay** \
 [⟐ Türkiye Cumhuriyeti Roleplay ↗︎](https://discord.gg/trrp) • Discord Bot Developer \
 2020 - Devam Ediyor  \
-<br/>
+<br/><br/>
 
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/attachments/715886415296069652/759848282422771732/New_Project_63_7E2F688.png"/>](https://codare.fun)
 
 **CodAre** \
 [codare.fun ↗︎](https://codare.fun/) • Discord Senior Moderator \
 2020 • 2021 \
-<br/>
