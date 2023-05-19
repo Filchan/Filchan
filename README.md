@@ -15,7 +15,7 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpdev&layout=compact&theme=dark&hide_border=true&custom_title=En%20%C3%87ok%20Kullan%C4%B1lan%20Diller&card_width=400)](https://github.com/chimpdev)
 
 #### GitHub'da neler yaptım?
-Toplamda 53 adet GitHub projesine 1124 commit ekledim ve toplamda 33 yıldız kazandım.
+Toplamda **53** adet GitHub projesine **1125** commit ekledim ve toplamda **33** yıldız kazandım.
 <br/>
 
 ## Tecrübelerim
