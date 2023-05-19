@@ -46,6 +46,7 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 [noname developers ↗︎](https://discord.gg/nonamedevelopers) • Full-stack Developer \
 2022 • 2023 \
 <br/>
+<br/>
 
 [<img align="left" height="72px" width="94px" src="https://dcturkiye.com/data/XenGenTr/xengentr_resimlikonular/7084.jpg"/>](https://distop.gg)
 
