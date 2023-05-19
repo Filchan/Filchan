@@ -11,11 +11,16 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 <img src='https://skillicons.dev/icons?i=js,nodejs,express,html,css,tailwind,vscode,mongodb,sqlite,heroku,vercel'/>
 <h6>EK / Discord.js, Eris, Glitch, Render, Railway App</h6>
 
+#### Spotify
+![](https://spotify-github-profile.vercel.app/api/view.svg?uid=u8dj98w8u9ckpmsnfplfjtp22&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=1ED760&bar_color_cover=false) 
+
+![](https://spotify-recently-played-readme.vercel.app/api?user=u8dj98w8u9ckpmsnfplfjtp22)
+
 #### Widgets
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpdev&layout=compact&theme=dark&hide_border=true&custom_title=En%20%C3%87ok%20Kullan%C4%B1lan%20Diller&card_width=400)](https://github.com/chimpdev)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpdev&layout=compact&theme=dark&hide_border=true&custom_title=En%20%C3%87ok%20Kullan%C4%B1lan%20Diller&card_width=400)
 
 #### GitHub'da neler yaptım?
-Toplamda **53** adet GitHub projesine **1125** commit ekledim ve toplamda **33** yıldız kazandım.
+Toplamda 📁 **53** adet GitHub projesine ⛓ **1126** commit ekledim ve toplamda ⭐ **33** yıldız kazandım.
 <br/>
 
 ## Tecrübelerim
