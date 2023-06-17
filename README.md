@@ -20,10 +20,17 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpdev&layout=compact&theme=dark&hide_border=true&custom_title=En%20%C3%87ok%20Kullan%C4%B1lan%20Diller&card_width=400)
 
 #### GitHub'da neler yaptım?
-Toplamda 📁 **54** adet GitHub projesine ⛓ **2132** commit ekledim ve toplamda ⭐ **33** yıldız kazandım.
+Toplamda 📁 **54** adet GitHub projesine ⛓ **2133** commit ekledim ve toplamda ⭐ **33** yıldız kazandım.
 <br/>
 
 ## Tecrübelerim
+[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1094312785556545647/a_e6e64072c5e0886987b47a3512e694ad.png"/>](https://discord.gg/ctqhVp5eyv)
+
+**Star Wars™: Galactic Rise Roleplay** \
+[Star Wars™: Galactic Rise Roleplay ↗︎](https://discord.gg/ctqhVp5eyv) • Discord Bot Developer \
+2023 - Devam Ediyor \
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1076438920008581150/a_c80a5084531540456e8c3f660a22c076.png"/>](https://discord.gg/twrp)
 
 **⊚ Teen Wolf Roleplay** \
