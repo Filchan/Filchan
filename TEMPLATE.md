@@ -24,6 +24,13 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 <br/>
 
 ## Tecrübelerim
+[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1120034775663657013/2dc82fa4b258e8bf6b2df00a7f874467.png"/>](https://discord.gg/kYZE4fxhqq)
+
+**๏ Türkiye Cumhuriyeti Roleplay** \
+[๏ Türkiye Cumhuriyeti Roleplay ↗︎](https://discord.gg/ctqhVp5eyv) • Discord Bot Developer \
+2023 - Devam Ediyor \
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1094312785556545647/a_e6e64072c5e0886987b47a3512e694ad.png"/>](https://discord.gg/ctqhVp5eyv)
 
 **Star Wars™: Galactic Rise Roleplay** \
