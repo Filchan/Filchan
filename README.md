@@ -20,25 +20,25 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpdev&layout=compact&theme=dark&hide_border=true&custom_title=En%20%C3%87ok%20Kullan%C4%B1lan%20Diller&card_width=400)
 
 #### GitHub'da neler yaptım?
-Toplamda 📁 **56** adet GitHub projesine ⛓ **2415** commit ekledim ve toplamda ⭐ **33** yıldız kazandım.
+Toplamda 📁 **56** adet GitHub projesine ⛓ **2416** commit ekledim ve toplamda ⭐ **33** yıldız kazandım.
 <br/>
 
 ## Tecrübelerim
-[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1120034775663657013/a_bbfea6a03c26ba765e9d96bab12f3735.gif"/>](https://discord.gg/kYZE4fxhqq)
+[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1120034775663657013/a_bbfea6a03c26ba765e9d96bab12f3735.png"/>](https://discord.gg/kYZE4fxhqq)
 
 **๏ Türkiye Cumhuriyeti Roleplay** \
 [๏ Türkiye Cumhuriyeti Roleplay ↗︎](https://discord.gg/ctqhVp5eyv) • Discord Bot Developer \
 2023 - Devam Ediyor \
 <br/><br/>
 
-[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1094312785556545647/a_e6e64072c5e0886987b47a3512e694ad.gif"/>](https://discord.gg/ctqhVp5eyv)
+[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1094312785556545647/a_e6e64072c5e0886987b47a3512e694ad.png"/>](https://discord.gg/ctqhVp5eyv)
 
 **Star Wars™: Galactic Rise Roleplay** \
 [Star Wars™: Galactic Rise Roleplay ↗︎](https://discord.gg/ctqhVp5eyv) • Discord Bot Developer \
 2023 - Devam Ediyor \
 <br/><br/>
 
-[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1076438920008581150/a_c80a5084531540456e8c3f660a22c076.gif"/>](https://discord.gg/twrp)
+[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1076438920008581150/a_c80a5084531540456e8c3f660a22c076.png"/>](https://discord.gg/twrp)
 
 **⊚ Teen Wolf Roleplay** \
 [⊚ Teen Wolf Roleplay ↗︎](https://discord.gg/twrp) • Discord Bot Developer \
@@ -52,7 +52,7 @@ Toplamda 📁 **56** adet GitHub projesine ⛓ **2415** commit ekledim ve toplam
 2023 - Devam Ediyor \
 <br/><br/>
 
-[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1061652868337254561/a_ed03c07a55a9a3ed53608038bc501ed0.gif"/>](https://discord.gg/NugXr5VX7r)
+[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1061652868337254561/a_ed03c07a55a9a3ed53608038bc501ed0.png"/>](https://discord.gg/NugXr5VX7r)
 
 **⌘ Birleşik Krallık Roleplay** \
 [⌘ Birleşik Krallık Roleplay ↗︎](https://discord.gg/NugXr5VX7r) • Discord Bot Developer \
@@ -80,14 +80,14 @@ Toplamda 📁 **56** adet GitHub projesine ⛓ **2415** commit ekledim ve toplam
 2022 • 2023 \
 <br/><br/>
 
-[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/929071610986659880/a_05b49f5969b379d04048a4baf2ded063.gif"/>](https://discord.gg/tcrp)
+[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/929071610986659880/a_05b49f5969b379d04048a4baf2ded063.png"/>](https://discord.gg/tcrp)
 
 **⌽ Türkiye Cumhuriyeti Roleplay** \
 [⌽ Türkiye Cumhuriyeti Roleplay ↗︎](https://discord.gg/tcrp) • Discord Bot Developer \
 2022 - Devam Ediyor \
 <br/><br/>
 
-[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/652564225130233867/a_ffdd29649677f5fcc7ce5bd9d77f39b4.gif"/>](https://discord.gg/trrp)
+[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/652564225130233867/a_ffdd29649677f5fcc7ce5bd9d77f39b4.png"/>](https://discord.gg/trrp)
 
 **⟐ Türkiye Cumhuriyeti Roleplay** \
 [⟐ Türkiye Cumhuriyeti Roleplay ↗︎](https://discord.gg/trrp) • Discord Bot Developer \
