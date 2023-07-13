@@ -20,11 +20,11 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpdev&layout=compact&theme=dark&hide_border=true&custom_title=En%20%C3%87ok%20Kullan%C4%B1lan%20Diller&card_width=400)
 
 #### GitHub'da neler yaptım?
-Toplamda 📁 **56** adet GitHub projesine ⛓ **2413** commit ekledim ve toplamda ⭐ **33** yıldız kazandım.
+Toplamda 📁 **56** adet GitHub projesine ⛓ **2414** commit ekledim ve toplamda ⭐ **33** yıldız kazandım.
 <br/>
 
 ## Tecrübelerim
-[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1120034775663657013/2dc82fa4b258e8bf6b2df00a7f874467.png"/>](https://discord.gg/kYZE4fxhqq)
+[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1120034775663657013/a_bbfea6a03c26ba765e9d96bab12f3735.png"/>](https://discord.gg/kYZE4fxhqq)
 
 **๏ Türkiye Cumhuriyeti Roleplay** \
 [๏ Türkiye Cumhuriyeti Roleplay ↗︎](https://discord.gg/ctqhVp5eyv) • Discord Bot Developer \
