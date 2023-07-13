@@ -24,7 +24,7 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 <br/>
 
 ## Tecrübelerim
-[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1120034775663657013/2dc82fa4b258e8bf6b2df00a7f874467.png"/>](https://discord.gg/kYZE4fxhqq)
+[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1120034775663657013/a_bbfea6a03c26ba765e9d96bab12f3735.png"/>](https://discord.gg/kYZE4fxhqq)
 
 **๏ Türkiye Cumhuriyeti Roleplay** \
 [๏ Türkiye Cumhuriyeti Roleplay ↗︎](https://discord.gg/ctqhVp5eyv) • Discord Bot Developer \
