@@ -31,7 +31,7 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 2023 - Devam Ediyor \
 <br/><br/>
 
-[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1094312785556545647/a_e6e64072c5e0886987b47a3512e694ad.png"/>](https://discord.gg/ctqhVp5eyv)
+[<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1094312785556545647/a_92cbf2209f15b242cd67a622c46395f2.png"/>](https://discord.gg/ctqhVp5eyv)
 
 **Star Wars™: Galactic Rise Roleplay** \
 [Star Wars™: Galactic Rise Roleplay ↗︎](https://discord.gg/ctqhVp5eyv) • Discord Bot Developer \
@@ -42,7 +42,7 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 
 **⊚ Teen Wolf Roleplay** \
 [⊚ Teen Wolf Roleplay ↗︎](https://discord.gg/twrp) • Discord Bot Developer \
-2023 - Devam Ediyor \
+2023 - 07/2023 \
 <br/><br/>
 
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1077101686268629052/19b757c5cd443b5bfc4da38dd56cfd1d.png"/>](https://discord.gg/gtHXyNTZ9d)
