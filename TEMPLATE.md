@@ -24,6 +24,13 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 <br/>
 
 ## Tecrübelerim
+[<img align="left" height="94px" width="94px" src="https://i.imgur.com/h4H8ZJu.png"/>](https://discord.gg/heracommunity)
+
+**⟐ Hera Community** \
+[⟐ Hera Community ↗︎](https://discord.gg/heracommunity) • Discord Bot Developer \
+29/07/2023 \
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/1054115480396369951/69f2c248060d854ee383be25eb6a1a32.png"/>](https://discord.gg/hrmShbk7WC)
 
 **Türkiye Cumhuriyeti Roleplay | Turco RPG** \
@@ -91,7 +98,7 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 
 **⌽ Türkiye Cumhuriyeti Roleplay** \
 [⌽ Türkiye Cumhuriyeti Roleplay ↗︎](https://discord.gg/tcrp) • Discord Bot Developer \
-2022 - Devam Ediyor \
+2022 - 29/07/2023 \
 <br/><br/>
 
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/652564225130233867/a_ffdd29649677f5fcc7ce5bd9d77f39b4.png"/>](https://discord.gg/trrp)
