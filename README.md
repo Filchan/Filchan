@@ -20,10 +20,17 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpdev&layout=compact&theme=dark&hide_border=true&custom_title=En%20%C3%87ok%20Kullan%C4%B1lan%20Diller&card_width=400)
 
 #### GitHub'da neler yaptım?
-Toplamda 📁 **63** adet GitHub projesine ⛓ **2537** commit ekledim ve toplamda ⭐ **35** yıldız kazandım.
+Toplamda 📁 **63** adet GitHub projesine ⛓ **2540** commit ekledim ve toplamda ⭐ **35** yıldız kazandım.
 <br/>
 
 ## Tecrübelerim
+[<img align="left" height="94px" width="94px" src="https://i.imgur.com/LnUGGvE.png"/>](https://kisilerarasiiliskilerterapisi.com)
+
+**Kişilerarası İlişkiler Psikoterapisi Derneği** \
+[kisilerarasiiliskilerterapisi.com ↗︎](Kişilerarası İlişkiler Psikoterapisi Derneği) • Web Developer \
+06/08/2023 \
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" src="https://i.imgur.com/h4H8ZJu.png"/>](https://discord.gg/heracommunity)
 
 **⟐ Hera Community** \
