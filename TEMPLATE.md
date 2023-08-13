@@ -27,7 +27,7 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 [<img align="left" height="94px" width="94px" src="https://i.imgur.com/LnUGGvE.png"/>](https://kisilerarasiiliskilerterapisi.com)
 
 **Kişilerarası İlişkiler Psikoterapisi Derneği** \
-[kisilerarasiiliskilerterapisi.com ↗︎](Kişilerarası İlişkiler Psikoterapisi Derneği) • Web Developer \
+[kisilerarasiiliskilerterapisi.com ↗︎](https://kisilerarasiiliskilerterapisi.com) • Web Developer \
 06/08/2023 \
 <br/><br/>
 
