@@ -24,6 +24,13 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 <br/>
 
 ## Tecrübelerim
+[<img align="left" height="94px" width="94px" src="https://i.imgur.com/rGgVwHQ.png"/>](https://is-my.bio)
+
+**is-my.bio** \
+[is-my.bio ↗︎](https://is-my.bio) • Full-stack Developer / Founder \
+14/08/2023 \
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" src="https://i.imgur.com/LnUGGvE.png"/>](https://kisilerarasiiliskilerterapisi.com)
 
 **Kişilerarası İlişkiler Psikoterapisi Derneği** \
