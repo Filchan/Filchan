@@ -20,10 +20,17 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpdev&layout=compact&theme=dark&hide_border=true&custom_title=En%20%C3%87ok%20Kullan%C4%B1lan%20Diller&card_width=400)
 
 #### GitHub'da neler yaptım?
-Toplamda 📁 **63** adet GitHub projesine ⛓ **2545** commit ekledim ve toplamda ⭐ **35** yıldız kazandım.
+Toplamda 📁 **65** adet GitHub projesine ⛓ **2553** commit ekledim ve toplamda ⭐ **35** yıldız kazandım.
 <br/>
 
 ## Tecrübelerim
+[<img align="left" height="94px" width="94px" src="https://i.imgur.com/rGgVwHQ.png"/>](https://is-my.bio)
+
+**is-my.bio** \
+[is-my.bio ↗︎](https://is-my.bio) • Full-stack Developer / Founder \
+14/08/2023 \
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" src="https://i.imgur.com/LnUGGvE.png"/>](https://kisilerarasiiliskilerterapisi.com)
 
 **Kişilerarası İlişkiler Psikoterapisi Derneği** \
