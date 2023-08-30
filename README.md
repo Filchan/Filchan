@@ -20,7 +20,7 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpdev&layout=compact&theme=dark&hide_border=true&custom_title=En%20%C3%87ok%20Kullan%C4%B1lan%20Diller&card_width=400)
 
 #### GitHub'da neler yaptım?
-Toplamda 📁 **66** adet GitHub projesine ⛓ **2610** commit ekledim ve toplamda ⭐ **35** yıldız kazandım.
+Toplamda 📁 **66** adet GitHub projesine ⛓ **2612** commit ekledim ve toplamda ⭐ **35** yıldız kazandım.
 <br/>
 
 ## Tecrübelerim
@@ -77,7 +77,7 @@ Toplamda 📁 **66** adet GitHub projesine ⛓ **2610** commit ekledim ve toplam
 
 **⌘ Birleşik Krallık Roleplay** \
 [⌘ Birleşik Krallık Roleplay ↗︎](https://discord.gg/NugXr5VX7r) • Discord Bot Developer \
-2023 - Devam Ediyor \
+2023 - 30.08.2023 \
 <br/><br/>
 
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/989170929865211904/0272a7571210a5a8452f261ca9fc7932.png"/>](https://discord.gg/nonamedevelopers)
