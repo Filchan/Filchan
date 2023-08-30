@@ -77,7 +77,7 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 
 **⌘ Birleşik Krallık Roleplay** \
 [⌘ Birleşik Krallık Roleplay ↗︎](https://discord.gg/NugXr5VX7r) • Discord Bot Developer \
-2023 - Devam Ediyor \
+2023 - 30.08.2023 \
 <br/><br/>
 
 [<img align="left" height="94px" width="94px" src="https://cdn.discordapp.com/icons/989170929865211904/0272a7571210a5a8452f261ca9fc7932.png"/>](https://discord.gg/nonamedevelopers)
