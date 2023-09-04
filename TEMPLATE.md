@@ -24,6 +24,13 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 <br/>
 
 ## Tecrübelerim
+[<img align="left" height="94px" width="94px" src="https://i.imgur.com/BWoVbVa.png"/>](https://secim.barisyasaman.com)
+
+**Seçim - Barış Yasaman** \
+[secim.barisyasaman.com ↗︎](https://secim.barisyasaman.com) • Web Developer \
+03/09/2023 \
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" src="https://i.imgur.com/LnUGGvE.png"/>](https://kisilerarasiiliskilerterapisi.com)
 
 **Kişilerarası İlişkiler Psikoterapisi Derneği** \
