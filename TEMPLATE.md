@@ -24,9 +24,9 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 <br/>
 
 ## Tecrübelerim
-[<img align="left" height="94px" width="94px" src="https://i.imgur.com/NOiCN83.gif"/>](https://secim.barisyasaman.com)
+[<img align="left" height="94px" width="94px" src="https://i.imgur.com/A4wSU2N.png"/>](https://discord.gg/wjCaTpscfS)
 
-**TPD™ Resmî Sunucusu* \
+**TPD™ Resmî Sunucusu** \
 [TPD™ Resmî Sunucusu ↗︎](https://discord.gg/wjCaTpscfS) • Discord Bot Developer \
 10/09/2023 \
 <br/><br/>
