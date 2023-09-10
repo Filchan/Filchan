@@ -20,13 +20,13 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpdev&layout=compact&theme=dark&hide_border=true&custom_title=En%20%C3%87ok%20Kullan%C4%B1lan%20Diller&card_width=400)
 
 #### GitHub'da neler yaptım?
-Toplamda 📁 **66** adet GitHub projesine ⛓ **2628** commit ekledim ve toplamda ⭐ **35** yıldız kazandım.
+Toplamda 📁 **66** adet GitHub projesine ⛓ **2629** commit ekledim ve toplamda ⭐ **35** yıldız kazandım.
 <br/>
 
 ## Tecrübelerim
-[<img align="left" height="94px" width="94px" src="https://i.imgur.com/NOiCN83.gif"/>](https://secim.barisyasaman.com)
+[<img align="left" height="94px" width="94px" src="https://i.imgur.com/A4wSU2N.png"/>](https://discord.gg/wjCaTpscfS)
 
-**TPD™ Resmî Sunucusu* \
+**TPD™ Resmî Sunucusu** \
 [TPD™ Resmî Sunucusu ↗︎](https://discord.gg/wjCaTpscfS) • Discord Bot Developer \
 10/09/2023 \
 <br/><br/>
