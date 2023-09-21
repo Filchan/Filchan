@@ -20,10 +20,17 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpdev&layout=compact&theme=dark&hide_border=true&custom_title=En%20%C3%87ok%20Kullan%C4%B1lan%20Diller&card_width=400)
 
 #### GitHub'da neler yaptım?
-Toplamda 📁 **67** adet GitHub projesine ⛓ **2676** commit ekledim ve toplamda ⭐ **36** yıldız kazandım.
+Toplamda 📁 **67** adet GitHub projesine ⛓ **2680** commit ekledim ve toplamda ⭐ **36** yıldız kazandım.
 <br/>
 
 ## Tecrübelerim
+[<img align="left" height="94px" width="94px" src="https://psimed.com.tr/favicon.png"/>](https://psimed.com.tr)
+
+**Psimed** \
+[psimed.com.tr ↗︎](https://psimed.com.tr) • Web Developer \
+03/09/2023 \
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" src="https://i.imgur.com/A4wSU2N.png"/>](https://discord.gg/wjCaTpscfS)
 
 **TPD™ Resmî Sunucusu** \
