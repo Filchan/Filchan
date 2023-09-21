@@ -24,6 +24,13 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 <br/>
 
 ## Tecrübelerim
+[<img align="left" height="94px" width="94px" src="https://psimed.com.tr/favicon.png"/>](https://psimed.com.tr)
+
+**Psimed** \
+[psimed.com.tr ↗︎](https://psimed.com.tr) • Web Developer \
+03/09/2023 \
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" src="https://i.imgur.com/A4wSU2N.png"/>](https://discord.gg/wjCaTpscfS)
 
 **TPD™ Resmî Sunucusu** \
