@@ -20,14 +20,14 @@ Kendi kendimi geliştirebiliyor ve yeni şeyleri kolayca öğrenebiliyorum.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chimpdev&layout=compact&theme=dark&hide_border=true&custom_title=En%20%C3%87ok%20Kullan%C4%B1lan%20Diller&card_width=400)
 
 #### GitHub'da neler yaptım?
-Toplamda 📁 **71** adet GitHub projesine ⛓ **2857** commit ekledim ve toplamda ⭐ **38** yıldız kazandım.
+Toplamda 📁 **71** adet GitHub projesine ⛓ **2858** commit ekledim ve toplamda ⭐ **38** yıldız kazandım.
 <br/>
 
 ## Tecrübelerim
 [<img align="left" height="94px" width="94px" src="https://discordsfx.com/favicon.png"/>](https://discordsfx.com)
 
 **Discord SFX** \
-[discordsfx.com ↗︎](https://psimed.com.tr) • Founder / Full-stack Developer \
+[discordsfx.com ↗︎](https://discordsfx.com) • Founder / Full-stack Developer \
 10/10/2023 \
 <br/><br/>
 
