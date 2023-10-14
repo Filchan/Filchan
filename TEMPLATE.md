@@ -24,6 +24,13 @@ Toplamda 📁 **{{ REPOSITORIES }}** adet GitHub projesine ⛓ **{{ COMMITS }}**
 <br/>
 
 ## Tecrübelerim
+[<img align="left" height="94px" width="94px" src="https://discordsfx.com/favicon.png"/>](https://discordsfx.com)
+
+**Discord SFX** \
+[discordsfx.com ↗︎](https://psimed.com.tr) • Founder / Full-stack Developer \
+10/10/2023 \
+<br/><br/>
+
 [<img align="left" height="94px" width="94px" src="https://psimed.com.tr/favicon.png"/>](https://psimed.com.tr)
 
 **Psimed** \
