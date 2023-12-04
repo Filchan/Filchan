@@ -8,13 +8,12 @@ I'm always open to new ideas and suggestions. Feel free to contact me on Discord
 
 Recent Activity
 ----
+<br/>
+ㅤ
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
-2. ⬆️ Pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
-3. ⬆️ Pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
-4. ⬆️ Pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
-5. ⬆️ Pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
 <!--RECENT_ACTIVITY:end-->
+ㅤ
+----
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=957840712404193290)
