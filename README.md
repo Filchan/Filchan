@@ -10,6 +10,11 @@ Recent Activity
 ----
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
+2. ⬆️ Pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
+3. ⬆️ Pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
+4. ⬆️ Pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
+5. ⬆️ Pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=957840712404193290)
