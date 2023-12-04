@@ -14,7 +14,7 @@ Recent Activity
 2. I pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
 3. I pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
 4. I pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
-5. I starred [lareii/autopull](https://github.com/lareii/autopull)<br>
+5. I pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chimpdev&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
