@@ -8,9 +8,6 @@ I'm always open to new ideas and suggestions. Feel free to contact me on Discord
 
 Recent Activity
 ----
-<br/>
-ㅤ
-
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
 2. Pushed 1 commit(s) to [chimpdev/chimpdev](https://github.com/chimpdev/chimpdev)<br>
