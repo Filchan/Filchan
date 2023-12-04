@@ -6,9 +6,7 @@ I'm currently working on a few projects that I pinned below.
 
 I'm always open to new ideas and suggestions. Feel free to contact me on Discord. I'm always on there.
 
-<picture>
-  <img src="/metrics.plugin.activity.svg" alt="Metrics">
-</picture>
+<img src="/metrics.plugin.activity.svg" alt="Metrics">
 
 ㅤ
 ----
