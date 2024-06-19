@@ -5,7 +5,3 @@ I'm a full-stack developer. Currently 18 years old, always learning. I love to m
 I'm currently working on a few projects that I pinned below.
 
 I'm always open to new ideas and suggestions. Feel free to contact me on Discord. I'm always on there.
-
-ㅤ
-----
-![My Discord](https://discord-readme-badge.vercel.app/api?id=957840712404193290)
