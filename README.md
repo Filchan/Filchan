@@ -8,4 +8,4 @@ I'm always open to new ideas and suggestions. Feel free to contact me on Discord
 
 ㅤ
 ----
-![My Discord](https://discord-readme-badge.vercel.app/api?id=957840712404193290)
+![My Discord](https://lantern.rest/api/v1/users/957840712404193290?svg=1)
